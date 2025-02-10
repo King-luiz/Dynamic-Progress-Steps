@@ -8,10 +8,6 @@ A simple, interactive web project that demonstrates a dynamic progress bar with 
 - **Dynamic Progress Bar:** Visual feedback with smooth transitions.
 - **Responsive Design:** Adapts seamlessly across devices.
 
-## 📸 Demo
-
-![Demo](https://images.unsplash.com/photo-1512716027040-313faf068b55)
-
 ## 🛠️ Technologies Used
 
 - **HTML5** - Structure of the web page
@@ -30,7 +26,7 @@ Dynamic-Progress-Steps/
 ## 📋 How to Use
 
 1. **Clone the repository:**  
-   `git clone https://github.com/your-username/Dynamic-Progress-Steps.git`
+   `git clone https://github.com/King-luiz/Dynamic-Progress-Steps.git`
 
 2. **Navigate to the project folder:**  
    `cd Dynamic-Progress-Steps`
